@@ -1,0 +1,36 @@
+NAME
+GANG
+AGE
+EDUCATION
+MARITAL
+JOB
+.END.
+
+Art Jets 40 JH Single Pusher
+Al Jets 30 JH Married Burglar
+Sam Jets 20 College Single Bookie
+Clyde Jets 40 JH Single Bookie
+Mike Jets 30 JH Single Bookie
+Jim Jets 20 JH Divorced Burglar
+Greg Jets 20 HS Married Pusher
+John Jets 20 JH Married Burglar
+Doug Jets 30 HS Single Bookie
+Lance Jets 20 JH Married Burglar
+George Jets 20 JH Divorced Burglar
+Pete Jets 20 HS Single Bookie
+Fred Jets 20 HS Single Pusher
+Gene Jets 20 College Single Pusher
+Ralph Jets 30 JH Single Pusher 
+Phil Sharkes 30 College Married Pusher
+Ike Sharks 30 JH Single Bookie
+Nick Sharks 30 HS Single Bookie
+Don Sharks 30 College Married Burglar
+Ned Sharks 30 College Married Bookie
+Karl Sharks 40 HS Married Bookie
+Ken Sharks 20 HS Single Burglar
+Earl Sharks 40 HS Married Burglar
+Rick Sharks 30 HS Divorced Burglar
+Ol Sharks 30 College Married Pusher
+Neal Sharks 30 HS Single Bookie
+Dave Sharks 30 HS Divorced Pusher
+.END.
